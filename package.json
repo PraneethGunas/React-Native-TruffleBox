@@ -1,0 +1,9 @@
+{
+  "name": "RN-truffle",
+  "version": "1.0.0",
+  "description": "React-Native Truffle box proj",
+  "main": "index.js",
+  "author": "Praneeth G",
+  "license": "MIT",
+  "private": null
+}
